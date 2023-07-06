@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **cool MERN Stack projects.**
 
-- 👨‍💻 All of my projects are available at [sumitpandey.netlify.app](sumitpandey.netlify.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sumitpandey.netlify.app)
 
 - 📫 How to reach me **aspp775@gmail.com**
 
