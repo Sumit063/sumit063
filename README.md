@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sumit Pandey!</h1>
 <h3 align="center">A passionate frontend developer from India, exploring the depths of ReactJS, PHP, and SpringBoot</h3>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Generative AI**
 
-- 👯 I’m looking to collaborate on **cool Full Stack projects.**
+- 👯 I’m looking to collaborate on **cool fun and live projects.**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://sumitpandey.netlify.app)
+- 👨‍💻 All of my projects are available at OLD X [My Portfolio](https://sumitpandey.netlify.app)
 
 - 📫 How to reach me **sumitpandey0633@gmail.com**
 
-- 📄 Know about my experiences [ **Resume** ](https://drive.google.com/file/d/1DNfbJU0OJmof0GalygbP-0Ajq_ENFSQq/view?usp=sharing)
+- 📄 Know about my experiences [ **Resume** ](https://drive.google.com/file/d/16cpXgfU4ikeiDTc6pviTHnZk1gM9GUId/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
