@@ -1,21 +1,21 @@
-# Sumit Pandey
+# 👋 Hi, I’m Sumit Pandey
 
-Backend & systems-oriented software engineer with a strong foundation in **distributed systems, networking, operating systems, and AI-powered tooling**.  
+Backend & systems-oriented - full-stack software engineer with a strong foundation in **distributed systems, networking, operating systems, and AI-powered tooling**.  
 I enjoy building practical tools and platforms that are **observable, debuggable, and production-minded**.
 
 **Open to remote backend / systems / AI engineering roles.**
 
 ---
 
-## Languages & Tech Tags
+## 🔧 Languages & Tech Tags
 
-`Python` · `Go` · `Java` · `Node.js` · `SQL` · `Bash`  
+`Python` · `Go` · `Java` · `React.js` · `PostgreSQL` · `Bash`  
 `Linux` · `Operating Systems` · `Networking` · `Distributed Systems`  
 `AI Engineering` · `RAG` · `LLMs` · `Backend`
 
 ---
 
-## Core Skill Set
+## 🧠 Core Skill Set
 
 **Backend & Systems**
 - Backend services and APIs (Python, Go, Java, Node.js)
@@ -42,43 +42,56 @@ I enjoy building practical tools and platforms that are **observable, debuggable
 
 ---
 
-## Selected Projects
+## 🚀 Projects
 
-| Project | Tags | Summary | Collab |
-|------|------|--------|--------|
-| **ai-core-kit** | `Python` `Go` `Node.js` `LLMs` `RAG` | Core AI patterns: text generation, structured outputs, embeddings, semantic search, mini-RAG | ✅ |
-| **Log Analyzer Platform** | `Python` `Django` `PostgreSQL` | Large-scale log parsing and analysis with async processing and UI insights | ⚠️ |
-| **RAG Knowledge Base Assistant** | `Python` `AI` | Document Q&A with background indexing and citations | ✅ |
-| **Network Analysis Tool (WIP)** | `Go` `Networking` | CLI-driven exploration of network/system data with AI-assisted reasoning | ✅ |
+| Name | Languages | Description | Repository | Open to Collaborate |
+|----|----|----|----|----|
+| **NetSage** | Go, React | Network traffic analysis and debugging tool focused on flows, protocol behavior, and AI-assisted insights | https://github.com/Sumit063/netsage | ✅ Yes |
+| **Log Analyzer** | Python, PostgreSQL, React | Django-based log analysis platform with regex pipelines, background parsing, and UI for large production logs | Private | ❌ No |
+| **RAG Knowledge Base Assistant** | Django | Document-based Q&A system with background indexing, vector search, citations, and API-first design | https://github.com/Sumit063/rag-knowledge-base | ✅ Yes |
+| **Feature Automation Platform** | Django | Internal automation system for managing feature-level configurations and reducing manual ops workflows | Private | ❌ No |
 
 ---
 
-## Toolkits & Labs
+## 🧪 Toolkits & Engineering Labs
 
-Focused repositories built to explore system fundamentals and tooling:
-
-- **ai-core-kit** — AI integration fundamentals across multiple languages  
-- **minitrace** — Minimal syscall / OS-level tracing experiments *(C/Linux)*  
+Focused repositories built to explore system fundamentals and tooling.
 - Experimental CLIs & internal tools around debugging, analysis, and automation  
+
+| Name | Languages | Purpose | Repository | Open to Collaborate |
+|----|----|----|----|----|
+| **ai-core-kit** | Python, Go, Node.js | Core AI integration patterns: text generation, structured outputs, embeddings, semantic search, and mini-RAG | https://github.com/Sumit063/ai-core-kit | ✅ Yes |
+| **MiniTrace** | C | Minimal syscall tracing tool to understand Linux process execution and kernel interactions | https://github.com/Sumit063/minitrace | ⚠️ Maybe |
 
 > This section will keep growing as I build focused, single-purpose engineering tools.
 
 ---
 
-## Professional Experience (Summary)
+## 💼 Experience (Summary)
 
+**Software Development Engineer**
 - Built and maintained backend systems handling high-volume data and async workflows  
 - Designed internal tooling for log analysis, automation, and system debugging  
-- Worked close to infra, SRE, and networking teams to diagnose production issues  
+- Worked close to dev, infra, SRE, and networking teams to diagnose production issues  
 - Strong focus on **observability, correctness, and system behavior under load**
 
 ---
 
-## Connect
+## 🤝 Collaboration
 
-- **GitHub**: https://github.com/Sumit063  
-- **LinkedIn**: https://www.linkedin.com/in/sumit-pandey  
-- **Instagram**: https://www.instagram.com/sumit063  
+I’m open to collaborating on:
+- AI tooling with solid engineering foundations
+- Backend or systems projects involving networking and data pipelines
+- Developer tools that help with debugging and understanding systems
+- Literally anything innovative, exciting, and challenging!
+
+---
+
+## 🔗 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Sumit063-181717?style=flat&logo=github)](https://github.com/Sumit063)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit%20Pandey-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sumit063)
+[![Instagram](https://img.shields.io/badge/Instagram-sumit063-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sumit._063)
 
 ---
 
