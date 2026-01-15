@@ -1,27 +1,85 @@
-<h1 align="center">Hi 👋, I'm Sumit Pandey!</h1>
-<h3 align="center">A passionate frontend developer from India, exploring the depths of ReactJS, PHP, and SpringBoot</h3>
+# Sumit Pandey
 
-- 🌱 I’m currently learning **Generative AI**
+Backend & systems-oriented software engineer with a strong foundation in **distributed systems, networking, operating systems, and AI-powered tooling**.  
+I enjoy building practical tools and platforms that are **observable, debuggable, and production-minded**.
 
-- 👯 I’m looking to collaborate on **cool fun and live projects.**
+**Open to remote backend / systems / AI engineering roles.**
 
-- 👨‍💻 All of my projects are available at OLD X [My Portfolio](https://sumitpandey.netlify.app)
+---
 
-- 📫 How to reach me **sumitpandey0633@gmail.com**
+## Languages & Tech Tags
 
-- 📄 Know about my experiences [ **Resume** ](https://drive.google.com/file/d/16cpXgfU4ikeiDTc6pviTHnZk1gM9GUId/view?usp=drive_link)
+`Python` · `Go` · `Java` · `Node.js` · `SQL` · `Bash`  
+`Linux` · `Operating Systems` · `Networking` · `Distributed Systems`  
+`AI Engineering` · `RAG` · `LLMs` · `Backend`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sumit063" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit063" height="30" width="40" /></a>
-<a href="https://instagram.com/sumit._063" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumit._063" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sumit063" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sumit063" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/0201ite080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="0201ite080" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.php.net/images/logos/php-logo.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Core Skill Set
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit063&show_icons=true&locale=en&layout=compact" alt="sumit063" /></p>
+**Backend & Systems**
+- Backend services and APIs (Python, Go, Java, Node.js)
+- Async processing, background workers, job queues
+- PostgreSQL, Redis, object storage
+- Docker, systemd, Linux server environments
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit063&" alt="sumit063" /></p>
+**Operating Systems & Linux**
+- Linux internals (processes, memory, file systems, signals)
+- SSH-based access models, **Teleport**, secure remote access
+- Debugging system behavior via logs, metrics, and runtime signals
+
+**Networking (System Thinking + Hands-on)**
+- Solid understanding of core protocols: **TCP/IP, DNS, HTTP(S), TLS**
+- How applications behave across networks, proxies, and tunnels
+- Hands-on debugging of connectivity, latency, and protocol issues
+- Experience reasoning about networked systems end-to-end, not just packets
+
+**AI Engineering**
+- LLM integration (OpenAI, Gemini, Hugging Face)
+- Prompt design, structured output enforcement
+- Embeddings, semantic search, mini-RAG pipelines
+- Cost-aware, API-first, production-style AI usage
+
+---
+
+## Selected Projects
+
+| Project | Tags | Summary | Collab |
+|------|------|--------|--------|
+| **ai-core-kit** | `Python` `Go` `Node.js` `LLMs` `RAG` | Core AI patterns: text generation, structured outputs, embeddings, semantic search, mini-RAG | ✅ |
+| **Log Analyzer Platform** | `Python` `Django` `PostgreSQL` | Large-scale log parsing and analysis with async processing and UI insights | ⚠️ |
+| **RAG Knowledge Base Assistant** | `Python` `AI` | Document Q&A with background indexing and citations | ✅ |
+| **Network Analysis Tool (WIP)** | `Go` `Networking` | CLI-driven exploration of network/system data with AI-assisted reasoning | ✅ |
+
+---
+
+## Toolkits & Labs
+
+Focused repositories built to explore system fundamentals and tooling:
+
+- **ai-core-kit** — AI integration fundamentals across multiple languages  
+- **minitrace** — Minimal syscall / OS-level tracing experiments *(C/Linux)*  
+- Experimental CLIs & internal tools around debugging, analysis, and automation  
+
+> This section will keep growing as I build focused, single-purpose engineering tools.
+
+---
+
+## Professional Experience (Summary)
+
+- Built and maintained backend systems handling high-volume data and async workflows  
+- Designed internal tooling for log analysis, automation, and system debugging  
+- Worked close to infra, SRE, and networking teams to diagnose production issues  
+- Strong focus on **observability, correctness, and system behavior under load**
+
+---
+
+## Connect
+
+- **GitHub**: https://github.com/Sumit063  
+- **LinkedIn**: https://www.linkedin.com/in/sumit-pandey  
+- **Instagram**: https://www.instagram.com/sumit063  
+
+---
+
+_Building practical systems. Thinking in terms of behavior, failure modes, and scale._
