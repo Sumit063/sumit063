@@ -9,9 +9,9 @@ I enjoy building practical tools and platforms that are **observable, debuggable
 
 ## 🔧 Languages & Tech Tags
 
-`Python` · `Go` · `Java` · `React.js` · `PostgreSQL` · `Bash`  
+`Java` · `C` · `Python` · `Go` · `React.js` · `PostgreSQL` · `Bash`  
 `Linux` · `Operating Systems` · `Networking` · `Distributed Systems`  
-`AI Engineering` · `RAG` · `LLMs` · `Backend`
+`AI Engineering` · `RAG` · `LLMs` · `Backend` · `Docker`
 
 ---
 
@@ -48,7 +48,7 @@ I enjoy building practical tools and platforms that are **observable, debuggable
 |----|----|----|----|----|
 | **NetSage** | Go, React | Network traffic analysis and debugging tool focused on flows, protocol behavior, and AI-assisted insights | https://github.com/Sumit063/netsage | ✅ Yes |
 | **Log Analyzer** | Python, PostgreSQL, React | Django-based log analysis platform with regex pipelines, background parsing, and UI for large production logs | Private | ❌ No |
-| **RAG Knowledge Base Assistant** | Django | Document-based Q&A system with background indexing, vector search, citations, and API-first design | https://github.com/Sumit063/rag-knowledge-base | ✅ Yes |
+| **RAG Knowledge Base Assistant** | Django | Document-based Q&A system with background indexing, vector search, citations, and API-first design | https://github.com/Sumit063/rag_kb | ✅ Yes |
 | **Feature Automation Platform** | Django | Internal automation system for managing feature-level configurations and reducing manual ops workflows | Private | ❌ No |
 
 ---
@@ -61,7 +61,8 @@ Focused repositories built to explore system fundamentals and tooling.
 | Name | Languages | Purpose | Repository | Open to Collaborate |
 |----|----|----|----|----|
 | **ai-core-kit** | Python, Go, Node.js | Core AI integration patterns: text generation, structured outputs, embeddings, semantic search, and mini-RAG | https://github.com/Sumit063/ai-core-kit | ✅ Yes |
-| **MiniTrace** | C | Minimal syscall tracing tool to understand Linux process execution and kernel interactions | https://github.com/Sumit063/minitrace | ⚠️ Maybe |
+| **MiniTrace** | C | Minimal syscall tracing tool to understand Linux process execution and kernel interactions | https://github.com/Sumit063/minitrace | ✅ Yes |
+| **NetLoop** | C | An event-driven TCP server/client in C using libevent, focused on the fundamentals of scalable networking | https://github.com/Sumit063/netloop | ✅ Yes |
 
 > This section will keep growing as I build focused, single-purpose engineering tools.
 
