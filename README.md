@@ -9,7 +9,7 @@ I enjoy building practical tools and platforms that are **observable, debuggable
 
 ## 🔧 Languages & Tech Tags
 
-`Java` · `C` · `Python` · `Go` · `React.js` · `PostgreSQL` · `Bash`  
+`Java` · `C` · `Python` · `Go` · `MERN Stack` · `PostgreSQL` · `Bash`  
 `Linux` · `Operating Systems` · `Networking` · `Distributed Systems`  
 `AI Engineering` · `RAG` · `LLMs` · `Backend` · `Docker`
 
@@ -46,6 +46,7 @@ I enjoy building practical tools and platforms that are **observable, debuggable
 
 | Name | Languages | Description | Repository | Open to Collaborate |
 |----|----|----|----|----|
+| **Sprint Desk** | MERN | A multi-tenant issue, sprint, and knowledge management platform supporting real-time collaboration, RBAC, and workspace-level workflows | https://github.com/Sumit063/sprint-desk | ✅ Yes |
 | **NetSage** | Go, React | Network traffic analysis and debugging tool focused on flows, protocol behavior, and AI-assisted insights | https://github.com/Sumit063/netsage | ✅ Yes |
 | **Log Analyzer** | Python, PostgreSQL, React | Django-based log analysis platform with regex pipelines, background parsing, and UI for large production logs | Private | ❌ No |
 | **RAG Knowledge Base Assistant** | Django | Document-based Q&A system with background indexing, vector search, citations, and API-first design | https://github.com/Sumit063/rag_kb | ✅ Yes |
