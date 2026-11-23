@@ -1,11 +1,36 @@
 # 👋 Hi, I’m Sumit Pandey
 
+🌐 **[sumitpandey.online](https://sumitpandey.online)** · ✍️ [Writing](https://sumitpandey.online/blog) · 🛡️ Founder of [Sqyra](https://sqyra.com)
+
+<sub>Sumit Kumar Pandey · Backend Engineer</sub>
+
 Backend engineer building **high-throughput, payment-grade distributed systems** in Java and Spring Boot,
 with a systems and networking core: Linux, TCP/IP, TLS, DNS, and C when it needs to be close to the metal.
 
 I care about services that are **correct under retries, observable in production, and boring to operate**.
 
 **Open to backend / distributed systems / platform engineering roles.**
+
+---
+
+## 🛡️ Sqyra
+
+I’m building **[Sqyra](https://sqyra.com)**, a house of “squires”: small, focused guardians that stand beside backend systems.
+
+- **[Aegis](https://aegis.sqyra.com)** verifies every payment callback and webhook before a backend believes it ([source](https://github.com/Sumit063/aegis))
+- **[Warden](https://warden.sqyra.com)** keeps internal apps off the internet and checks every request for who, which device and which app
+
+---
+
+## ✍️ Notes from production
+
+Stories from running services at scale, with the concepts explained along the way:
+
+- [Why Cassandra Said “Not Found” Right After a Successful Write](https://sumitpandey.online/blog/cassandra-local-one-to-quorum)
+- [How a Late Message Undid a Completed Transaction (and How We Fixed the Race)](https://sumitpandey.online/blog/the-payment-that-went-back-in-time)
+- [Why Our Database Connections Ran Out While the Database Sat Idle](https://sumitpandey.online/blog/the-pool-that-ran-dry)
+
+More at **[sumitpandey.online/blog](https://sumitpandey.online/blog)**.
 
 ---
 
@@ -68,7 +93,7 @@ I care about services that are **correct under retries, observable in production
 | Name | Languages | Description | Repository | Open to Collaborate |
 |----|----|----|----|----|
 | **DevBoard** | Swift (WidgetKit) | Native macOS widgets for interview prep: LeetCode & GitHub heatmaps, daily AI-written system design / OS / networks / DBMS / infra questions with hints, resume-based questions, answers in Apple Notes | https://github.com/Sumit063/devboard | ✅ Yes |
-| **Sprint Desk** | MERN | A multi-tenant issue, sprint and knowledge management platform with real-time collaboration, RBAC and workspace-level workflows | https://github.com/Sumit063/sprint-desk | ✅ Yes |
+| **Sprint Desk** | Java, Spring Boot, React | A multi-tenant issue, sprint and knowledge management platform with real-time collaboration, RBAC and workspace-level workflows | https://github.com/Sumit063/sprint-desk-java | ✅ Yes |
 | **NetSage** | Go, React | Network traffic analysis and debugging tool focused on flows, protocol behavior and AI-assisted insights | https://github.com/Sumit063/netsage | ✅ Yes |
 | **RAG Knowledge Base Assistant** | Django | Document-based Q&A with background indexing, vector search, citations and an API-first design | https://github.com/Sumit063/rag_kb | ✅ Yes |
 | **Log Analyzer** | Python, PostgreSQL, React | Log analysis platform with regex pipelines, background parsing and a UI for large production logs | Private | ❌ No |
@@ -116,6 +141,7 @@ I’m open to collaborating on:
 
 ## 🔗 Connect With Me
 
+[![Website](https://img.shields.io/badge/Website-sumitpandey.online-111111?style=flat&logo=googlechrome&logoColor=white)](https://sumitpandey.online)
 [![GitHub](https://img.shields.io/badge/GitHub-Sumit063-181717?style=flat&logo=github)](https://github.com/Sumit063)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit%20Pandey-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sumit063)
 [![Instagram](https://img.shields.io/badge/Instagram-sumit063-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sumit._063)
